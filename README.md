@@ -30,7 +30,12 @@ My work spans kernel drivers, endpoint protection platforms, and reverse enginee
 **Dependency injection framework**  
 - Focused on python oriented composability and flexible dependency resolution  
 - Explores architectural patterns for scalable system design  
-- Designed to support complex application wiring with minimal friction  
+- Designed to support complex application wiring with minimal friction
+
+#### 💪 [picidae](https://github.com/MATTHEWFRAZER/picidae)
+**Collection of boiler plate/convenience functions**  
+- Exposes useful constructs often used in functional/oregami programming contexts
+- Encourages code reuse by consolidating functions that would otherwise appear as isolated bespoke utility code
 
 ---
 
