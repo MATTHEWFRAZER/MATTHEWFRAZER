@@ -23,7 +23,7 @@ My work spans kernel drivers, endpoint protection platforms, and reverse enginee
 #### 🔬 [pavo_cristatus](https://github.com/MATTHEWFRAZER/pavo_cristatus)
 **Reversible Python type annotation system (no AST, format-preserving)**  
 - Extracts, stores, and reinjects type annotations without modifying code structure  
-- Preserves formatting, comments, and developer intent  
+- Allows for separation between type hints and code; for type tooling/linting and de-cluttered pure python
 - Designed to declutter pyton code
 
 #### 🧩 [ploceidae](https://github.com/MATTHEWFRAZER/ploceidae)
