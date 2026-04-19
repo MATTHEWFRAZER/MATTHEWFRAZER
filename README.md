@@ -21,7 +21,7 @@ My work spans kernel drivers, endpoint protection platforms, and reverse enginee
 ### ⚙️ Engineering Infrastructure & Design
 
 #### 🔬 [pavo_cristatus](https://github.com/MATTHEWFRAZER/pavo_cristatus)
-**Reversible Python type annotation system (no AST, format-preserving)**  
+**Reversible Python type annotation system**  
 - Extracts, stores, and reinjects type annotations without modifying code structure  
 - Allows for separation between type hints and code; for type tooling/linting and de-cluttered pure python
 - Designed to declutter pyton code
