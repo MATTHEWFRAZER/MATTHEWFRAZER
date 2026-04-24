@@ -64,6 +64,8 @@ My work spans kernel drivers, endpoint protection platforms, and reverse enginee
 **Kernel & Systems**
 - Windows Driver Model (WDM)
 - Windows Filtering Platform (WFP)
+- Device Control
+- File System Minifilters
 - ELAM & early boot mechanisms
 - Device control & kernel instrumentation
 
