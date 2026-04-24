@@ -9,7 +9,7 @@ My work spans kernel drivers, endpoint protection platforms, and reverse enginee
 
 ## 🔍 Focus Areas
 
-- Windows Kernel Development (WDM, WFP, ELAM)
+- Windows Kernel Development
 - Reverse Engineering & Binary Analysis
 - Exploit Mitigation & Runtime Instrumentation
 - Systems-Level Tooling & Automation
